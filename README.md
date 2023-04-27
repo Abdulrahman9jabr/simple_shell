@@ -2,7 +2,6 @@
 
 
 ├── _atoi.c <br/>
-├── AUTHORS <br/>
 ├── builtin1.c <br/>
 ├── builtin.c <br/>
 ├── driver.h <br/>
